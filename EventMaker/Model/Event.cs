@@ -24,6 +24,10 @@ namespace EventMaker.Model
             _place = Place;
             _dateTime = DateTime;
         }
+        public Event()
+        {
+
+        }
 
         // properties
         public int ID
